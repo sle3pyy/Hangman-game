@@ -1,4 +1,3 @@
-AUTORES = [119042,118716]
 import os
 import random
 import re
