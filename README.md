@@ -1,2 +1,1 @@
-#forca
-Both files need to be in the same folder for the hangman game to work
+This is a simple hangman game in portuguese.
